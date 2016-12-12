@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.venv
+venv
 
 # C extensions
 *.so
@@ -87,3 +89,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#SASS
+.sass-cache
